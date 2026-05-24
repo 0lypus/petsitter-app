@@ -71,7 +71,7 @@ Se utilizaron:
 
 ## Capturas de pantalla
 
-- Branch buscar_cuidadores
+### Capturas buscar_cuidadores
 ![Git clone](image.png)
 ![Git branch](image-1.png)
 ![buscar_cuidadores](image-2.png)
@@ -81,8 +81,9 @@ Se utilizaron:
 ![Git commit](image-6.png)
 ![Git push](image-7.png)
       
+### Capturas landing-mejoras
+![alt text](image.png)
 
 
 
 
-[Agregar URL del repositorio]
