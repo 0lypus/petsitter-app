@@ -67,7 +67,7 @@ Se utilizaron:
 
 ## Capturas de pantalla
 
-
+![alt text](image.png)
 
 
 
