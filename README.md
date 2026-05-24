@@ -45,7 +45,7 @@ Se utilizaron:
 |------------|-----|
 | Damian Palacios | integrante 1 |
 | Agustin Coccia | integrante 2 |
-| Sofia Racing | integrante 3 |
+| Sofia Rasi | integrante 3 |
 
 
 
@@ -61,12 +61,26 @@ Se utilizaron:
   - Rama principal final del proyecto.
   - Se migró el contenido desde `master` y quedó como rama definitiva del repositorio.
 
+  buscar_cuidadores
+  - Rama creada para trabajar nuevas funcionalidades y modificaciones del proyecto.
+  - Se realizaron cambios en archivos y actualización del README antes de hacer merge con `main`.
+
 ### Cambios realizados
  COMPLETAR
 
 
 ## Capturas de pantalla
 
+- Branch buscar_cuidadores
+![Git clone](image.png)
+![Git branch](image-1.png)
+![buscar_cuidadores](image-2.png)
+![boton cuidadores](image-3.png)
+![Git status](image-4.png)
+![Git status add](image-5.png)
+![Git commit](image-6.png)
+![Git push](image-7.png)
+      
 
 
 
